@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.13">
+  <diagram name="Страница — 1" id="oH_LN0j6c0HDrWeT9ftG">
+    <mxGraphModel dx="1434" dy="2421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="1440" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66FF66;strokeWidth=7;" parent="1" vertex="1">
+          <mxGeometry x="90" y="80" width="380" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=7;strokeColor=#FF3333;" parent="1" vertex="1">
+          <mxGeometry x="560" y="80" width="380" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=7;strokeColor=#66ff66;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="80" width="380" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-1200" width="1440" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="475" y="-925" width="550" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-18" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Авторизация&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="-920" width="540" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="-810" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="-717.5" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-23" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Логин&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="-812.5" width="105" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-24" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Пароль&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="-720" width="105" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-25" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;Оператор скважин&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-40" width="1440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-26" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;Статус: активна&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="135" y="201" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-27" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;Объём добычи (баррелей в час): 7&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="135" y="383.5" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-28" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;Ошибки: отсутствуют&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="135" y="290" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-5" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Скважина №1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="205" y="81" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-6" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Скважина №2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="675" y="80" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-7" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Скважина №3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1155" y="80" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-33" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;Потребление (кВт в час): 75&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="135" y="480" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-34" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;Регион: Сибирь&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="135" y="560" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-37" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;Кол-во работников: 5&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="135" y="640" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-38" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;Дата начала работы: 12.05.2024&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="135" y="720" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="827" width="1330" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-41" value="&lt;font style=&quot;font-size: 44px;&quot;&gt;+ Добавить новую скважину&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="837" width="1280" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="622.5" y="-640" width="255" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-46" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=0;fillColor=none;routingCenterX=-0.5;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="225" y="-45" width="120" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-44" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Войти&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="687.5" y="-632.5" width="125" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-47" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=0;fillColor=none;routingCenterX=-0.5;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="217.5" y="-47.5" width="120" height="375" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-48" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=0;fillColor=none;routingCenterX=-0.5;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="687.5" y="-46.5" width="120" height="375" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-49" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=0;fillColor=none;routingCenterX=-0.5;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="-45" width="120" height="375" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-50" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;Статус: неактивна&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="602.5" y="200" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-51" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;Объём добычи (баррелей в час): 0&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="602.5" y="382.5" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-52" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;Ошибки: отсутствуют&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="602.5" y="289" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-53" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;Потребление (кВт в час): 0&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="602.5" y="479" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-54" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;Регион: Урал&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="602.5" y="559" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-55" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;Кол-во работников: 4&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="602.5" y="639" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-56" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;Дата начала работы: 08.11.2023&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="602.5" y="719" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-57" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;Статус: активна&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1085" y="200" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-58" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;Объём добычи (баррелей в час): 3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1085" y="382.5" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-59" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;Ошибки: 2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1085" y="289" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-60" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;Потребление (кВт в час): 63&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1085" y="479" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-61" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;Регион: Удмуртия&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1085" y="559" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-62" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;Кол-во работников: 4&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1085" y="639" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eo2vYeCuPg-XhkwwHYxe-63" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;Дата начала работы: 23.03.2024&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1085" y="719" width="290" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
