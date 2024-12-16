@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\beltu\\source\\repos\\OilGasProducingEnterprises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C77B394-928B-41FD-960E-C74C7CBDE710}|OilGasProducingEnterprises\\OilGasProducingEnterprises.csproj|c:\\users\\beltu\\source\\repos\\oilgasproducingenterprises\\oilgasproducingenterprises\\statistics\\servicestatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C77B394-928B-41FD-960E-C74C7CBDE710}|OilGasProducingEnterprises\\OilGasProducingEnterprises.csproj|solutionrelative:oilgasproducingenterprises\\statistics\\servicestatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C77B394-928B-41FD-960E-C74C7CBDE710}|OilGasProducingEnterprises\\OilGasProducingEnterprises.csproj|c:\\users\\beltu\\source\\repos\\oilgasproducingenterprises\\oilgasproducingenterprises\\humans\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C77B394-928B-41FD-960E-C74C7CBDE710}|OilGasProducingEnterprises\\OilGasProducingEnterprises.csproj|solutionrelative:oilgasproducingenterprises\\humans\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C77B394-928B-41FD-960E-C74C7CBDE710}|OilGasProducingEnterprises\\OilGasProducingEnterprises.csproj|c:\\users\\beltu\\source\\repos\\oilgasproducingenterprises\\oilgasproducingenterprises\\humans\\serviceworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C77B394-928B-41FD-960E-C74C7CBDE710}|OilGasProducingEnterprises\\OilGasProducingEnterprises.csproj|solutionrelative:oilgasproducingenterprises\\humans\\serviceworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C77B394-928B-41FD-960E-C74C7CBDE710}|OilGasProducingEnterprises\\OilGasProducingEnterprises.csproj|c:\\users\\beltu\\source\\repos\\oilgasproducingenterprises\\oilgasproducingenterprises\\humans\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C77B394-928B-41FD-960E-C74C7CBDE710}|OilGasProducingEnterprises\\OilGasProducingEnterprises.csproj|solutionrelative:oilgasproducingenterprises\\humans\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C77B394-928B-41FD-960E-C74C7CBDE710}|OilGasProducingEnterprises\\OilGasProducingEnterprises.csproj|c:\\users\\beltu\\source\\repos\\oilgasproducingenterprises\\oilgasproducingenterprises\\humans\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C77B394-928B-41FD-960E-C74C7CBDE710}|OilGasProducingEnterprises\\OilGasProducingEnterprises.csproj|solutionrelative:oilgasproducingenterprises\\humans\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C77B394-928B-41FD-960E-C74C7CBDE710}|OilGasProducingEnterprises\\OilGasProducingEnterprises.csproj|c:\\users\\beltu\\source\\repos\\oilgasproducingenterprises\\oilgasproducingenterprises\\well\\servicewell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C77B394-928B-41FD-960E-C74C7CBDE710}|OilGasProducingEnterprises\\OilGasProducingEnterprises.csproj|solutionrelative:oilgasproducingenterprises\\well\\servicewell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C77B394-928B-41FD-960E-C74C7CBDE710}|OilGasProducingEnterprises\\OilGasProducingEnterprises.csproj|c:\\users\\beltu\\source\\repos\\oilgasproducingenterprises\\oilgasproducingenterprises\\well\\well.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C77B394-928B-41FD-960E-C74C7CBDE710}|OilGasProducingEnterprises\\OilGasProducingEnterprises.csproj|solutionrelative:oilgasproducingenterprises\\well\\well.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C77B394-928B-41FD-960E-C74C7CBDE710}|OilGasProducingEnterprises\\OilGasProducingEnterprises.csproj|c:\\users\\beltu\\source\\repos\\oilgasproducingenterprises\\oilgasproducingenterprises\\statistics\\stringstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C77B394-928B-41FD-960E-C74C7CBDE710}|OilGasProducingEnterprises\\OilGasProducingEnterprises.csproj|solutionrelative:oilgasproducingenterprises\\statistics\\stringstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C77B394-928B-41FD-960E-C74C7CBDE710}|OilGasProducingEnterprises\\OilGasProducingEnterprises.csproj|c:\\users\\beltu\\source\\repos\\oilgasproducingenterprises\\oilgasproducingenterprises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C77B394-928B-41FD-960E-C74C7CBDE710}|OilGasProducingEnterprises\\OilGasProducingEnterprises.csproj|solutionrelative:oilgasproducingenterprises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C77B394-928B-41FD-960E-C74C7CBDE710}|OilGasProducingEnterprises\\OilGasProducingEnterprises.csproj|c:\\users\\beltu\\source\\repos\\oilgasproducingenterprises\\oilgasproducingenterprises\\statistics\\reportstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C77B394-928B-41FD-960E-C74C7CBDE710}|OilGasProducingEnterprises\\OilGasProducingEnterprises.csproj|solutionrelative:oilgasproducingenterprises\\statistics\\reportstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StringStatistics.cs",
+              "DocumentMoniker": "C:\\Users\\beltu\\source\\repos\\OilGasProducingEnterprises\\OilGasProducingEnterprises\\Statistics\\StringStatistics.cs",
+              "RelativeDocumentMoniker": "OilGasProducingEnterprises\\Statistics\\StringStatistics.cs",
+              "ToolTip": "C:\\Users\\beltu\\source\\repos\\OilGasProducingEnterprises\\OilGasProducingEnterprises\\Statistics\\StringStatistics.cs",
+              "RelativeToolTip": "OilGasProducingEnterprises\\Statistics\\StringStatistics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:27:57.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportStatistics.cs",
+              "DocumentMoniker": "C:\\Users\\beltu\\source\\repos\\OilGasProducingEnterprises\\OilGasProducingEnterprises\\Statistics\\ReportStatistics.cs",
+              "RelativeDocumentMoniker": "OilGasProducingEnterprises\\Statistics\\ReportStatistics.cs",
+              "ToolTip": "C:\\Users\\beltu\\source\\repos\\OilGasProducingEnterprises\\OilGasProducingEnterprises\\Statistics\\ReportStatistics.cs",
+              "RelativeToolTip": "OilGasProducingEnterprises\\Statistics\\ReportStatistics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:20:46.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceStatistics.cs",
+              "DocumentMoniker": "C:\\Users\\beltu\\source\\repos\\OilGasProducingEnterprises\\OilGasProducingEnterprises\\Statistics\\ServiceStatistics.cs",
+              "RelativeDocumentMoniker": "OilGasProducingEnterprises\\Statistics\\ServiceStatistics.cs",
+              "ToolTip": "C:\\Users\\beltu\\source\\repos\\OilGasProducingEnterprises\\OilGasProducingEnterprises\\Statistics\\ServiceStatistics.cs",
+              "RelativeToolTip": "OilGasProducingEnterprises\\Statistics\\ServiceStatistics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:18:23.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceWell.cs",
+              "DocumentMoniker": "C:\\Users\\beltu\\source\\repos\\OilGasProducingEnterprises\\OilGasProducingEnterprises\\Well\\ServiceWell.cs",
+              "RelativeDocumentMoniker": "OilGasProducingEnterprises\\Well\\ServiceWell.cs",
+              "ToolTip": "C:\\Users\\beltu\\source\\repos\\OilGasProducingEnterprises\\OilGasProducingEnterprises\\Well\\ServiceWell.cs",
+              "RelativeToolTip": "OilGasProducingEnterprises\\Well\\ServiceWell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:14:50.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Well.cs",
+              "DocumentMoniker": "C:\\Users\\beltu\\source\\repos\\OilGasProducingEnterprises\\OilGasProducingEnterprises\\Well\\Well.cs",
+              "RelativeDocumentMoniker": "OilGasProducingEnterprises\\Well\\Well.cs",
+              "ToolTip": "C:\\Users\\beltu\\source\\repos\\OilGasProducingEnterprises\\OilGasProducingEnterprises\\Well\\Well.cs",
+              "RelativeToolTip": "OilGasProducingEnterprises\\Well\\Well.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:05:38.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceWorker.cs",
+              "DocumentMoniker": "C:\\Users\\beltu\\source\\repos\\OilGasProducingEnterprises\\OilGasProducingEnterprises\\Humans\\ServiceWorker.cs",
+              "RelativeDocumentMoniker": "OilGasProducingEnterprises\\Humans\\ServiceWorker.cs",
+              "ToolTip": "C:\\Users\\beltu\\source\\repos\\OilGasProducingEnterprises\\OilGasProducingEnterprises\\Humans\\ServiceWorker.cs",
+              "RelativeToolTip": "OilGasProducingEnterprises\\Humans\\ServiceWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:50:46.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Administrator.cs",
+              "DocumentMoniker": "C:\\Users\\beltu\\source\\repos\\OilGasProducingEnterprises\\OilGasProducingEnterprises\\Humans\\Administrator.cs",
+              "RelativeDocumentMoniker": "OilGasProducingEnterprises\\Humans\\Administrator.cs",
+              "ToolTip": "C:\\Users\\beltu\\source\\repos\\OilGasProducingEnterprises\\OilGasProducingEnterprises\\Humans\\Administrator.cs",
+              "RelativeToolTip": "OilGasProducingEnterprises\\Humans\\Administrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:47:33.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\beltu\\source\\repos\\OilGasProducingEnterprises\\OilGasProducingEnterprises\\Humans\\Worker.cs",
+              "RelativeDocumentMoniker": "OilGasProducingEnterprises\\Humans\\Worker.cs",
+              "ToolTip": "C:\\Users\\beltu\\source\\repos\\OilGasProducingEnterprises\\OilGasProducingEnterprises\\Humans\\Worker.cs",
+              "RelativeToolTip": "OilGasProducingEnterprises\\Humans\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:44:28.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\beltu\\source\\repos\\OilGasProducingEnterprises\\OilGasProducingEnterprises\\Humans\\Human.cs",
+              "RelativeDocumentMoniker": "OilGasProducingEnterprises\\Humans\\Human.cs",
+              "ToolTip": "C:\\Users\\beltu\\source\\repos\\OilGasProducingEnterprises\\OilGasProducingEnterprises\\Humans\\Human.cs",
+              "RelativeToolTip": "OilGasProducingEnterprises\\Humans\\Human.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:36:07.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\beltu\\source\\repos\\OilGasProducingEnterprises\\OilGasProducingEnterprises\\Program.cs",
+              "RelativeDocumentMoniker": "OilGasProducingEnterprises\\Program.cs",
+              "ToolTip": "C:\\Users\\beltu\\source\\repos\\OilGasProducingEnterprises\\OilGasProducingEnterprises\\Program.cs",
+              "RelativeToolTip": "OilGasProducingEnterprises\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:29:01.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
